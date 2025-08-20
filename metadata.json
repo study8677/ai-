@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Co-Pilot",
+  "description": "一个由AI驱动的Web应用，旨在帮助英语四级水平的用户通过词汇构建、语法纠正、口语练习和写作辅助等功能，为雅思考试做准备。",
+  "requestFramePermissions": []
+}
